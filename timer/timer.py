@@ -20,6 +20,7 @@ counter = 0
 
 
 def counter_label(label):
+
     def count():
         global counter
         counter += 1
