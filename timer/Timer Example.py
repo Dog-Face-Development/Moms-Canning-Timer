@@ -18,6 +18,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 import time
 
 # Main Time Function
+
+
 def timeStart():
     # Variables to keep track and display
     Sec = 0

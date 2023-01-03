@@ -21,6 +21,8 @@ import tkinter.messagebox as msgbox
 import time
 
 # Timer Program for Burner 1
+
+
 def timeStart1():
     # Variables to keep track and display
     global Sec
