@@ -15,10 +15,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
 
+import time
+import tkinter.messagebox as msgbox
 # Import statements
 from tkinter import *
-import tkinter.messagebox as msgbox
-import time
 
 # Timer Program for Burner 1
 
