@@ -14,11 +14,10 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
-
 import time
 import tkinter.messagebox as msgbox
-# Import statements
 from tkinter import *
+# Import statements
 
 # Timer Program for Burner 1
 
