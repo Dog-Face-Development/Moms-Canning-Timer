@@ -17,6 +17,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 import time
 import tkinter.messagebox as msgbox
 from tkinter import *
+
 # Import statements
 
 # Timer Program for Burner 1
