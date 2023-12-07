@@ -1,11 +1,13 @@
 """Tests for main.py."""
 # pylint: disable=invalid-name, wrong-import-position
-
 import os
 import sys
 import unittest
 
-from main import timeStart1, timeStart2, timeStart3, timeStart4
+from main import timeStart1
+from main import timeStart2
+from main import timeStart3
+from main import timeStart4
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
